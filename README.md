@@ -71,8 +71,8 @@ I'm a Python Developer 💻!
 - [Self and Operator in Ruby](https://heangsok.github.io/myFirstWeb/project.html)
 
 ## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://heangsok.github.io/myFirstWeb/project.html)
+<!-- 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://heangsok.github.io/myFirstWeb/project.html) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://heangsok.github.io/myFirstWeb/project.html)
 
