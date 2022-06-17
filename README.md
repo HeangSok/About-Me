@@ -63,17 +63,9 @@ I'm a Python Developer 💻!
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
+## 📝 Projects
 
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://heangsok.github.io/myFirstWeb/project.html)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://heangsok.github.io/myFirstWeb/project.html)
-- [Checklist ✅ for Rails Application](https://heangsok.github.io/myFirstWeb/project.html)
-- [Self and Operator in Ruby](https://heangsok.github.io/myFirstWeb/project.html)
-
-## 📈 GitHub Stats 
-<!-- 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://heangsok.github.io/myFirstWeb/project.html) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://heangsok.github.io/myFirstWeb/project.html)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://heangsok.github.io/myFirstWeb/project.html)
+- [Analytical Software 📈 -> Python](https://github.com/HeangSok/project-1)
+- [PacMan Game 🎮 -> Python](https://github.com/HeangSok/project-2)
+- [Database 👨🏻‍💻 -> MySql](https://github.com/HeangSok/project-3)
+- [Guess My Number 🎮 -> JavaScript](https://heangsok.github.io/Guess-My-Number-/)
