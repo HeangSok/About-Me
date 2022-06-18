@@ -8,7 +8,7 @@ Hi there, I'm <a href="[https://www.yushi.dev/](https://heangsok.github.io/myFir
 </h3>
 
 <h2 align="center">
-I'm a Python Developer 💻!
+I'm a Fresh Graduate Developer 💻!
 </h2> 
 
 
@@ -68,4 +68,8 @@ I'm a Python Developer 💻!
 - [![](https://img.shields.io/badge/Code-Python-blue) -- Analytical Software 📈](https://github.com/HeangSok/project-1)
 - [![](https://img.shields.io/badge/Code-Python-blue) -- PacMan Game 🎮](https://github.com/HeangSok/project-2)
 - [![](https://img.shields.io/badge/Code-MySQL-orange) -- Database 👨🏻‍💻](https://github.com/HeangSok/project-3)
+- [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -- My Note 📝](https://github.com/HeangSok/MyFirstReactPoject)
 - [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- Guess My Number 🎮](https://heangsok.github.io/Guess-My-Number-/)
+- [![](https://img.shields.io/badge/Code-Swift-red) -- CheckList App ✅](https://github.com/HeangSok/ChecklistApp)
+- [![](https://img.shields.io/badge/Code-Swift-red) -- FavouritePlaces App 📍](https://github.com/HeangSok/FavouritePlaces)
+
