@@ -27,7 +27,7 @@ I'm a Fresh Graduate Developer 💻!
 
 ## 🔭 I'm currently working on
 
-- Light-weight Penetation Testing Tools (Python)
+- Light-weight Penetration Testing Tools (Python)
 - Todo List (React)
 - Mobile App (SwiftUI)
 
@@ -53,6 +53,10 @@ I'm a Fresh Graduate Developer 💻!
 | ------------- | ------------- | ------------- | ------------- |
 | Master in Information Technology | Griffith University  | ![](https://img.shields.io/badge/-Australia-red) | 2020-2022 |
 | Bachelor in Accounting | Vanda Institue | ![](https://img.shields.io/badge/-Cambodia-blue) |2009-2011 |
+
+</br>
+<a href="https://github.com/HeangSok/About-Me/tree/main/Certificate" target="_blank">👉 Certificates</a>
+
 
 
 ## 💼 Technical Skills
