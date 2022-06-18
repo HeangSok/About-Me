@@ -1,5 +1,5 @@
 <p align="center>
-<img href="https://heangsok.github.io/myFirstWeb/project.html" target="_blank" width="1000" alt="my banner" src="https://user-images.githubusercontent.com/77439221/171973268-1338523a-64fc-4f82-b87f-1ab01d948b31.png">
+<img href="https://heangsok.github.io/myFirstWeb/project.html" target="_blank" width="1000" alt="my banner" src="https://github.com/HeangSok/About-Me/blob/main/Certificate/cover-page.png">
 </p>
 
 
