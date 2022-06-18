@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-Hi there, I'm <a href="[https://www.yushi.dev/](https://heangsok.github.io/myFirstWeb/project.html)" target="_blank">Heang</a> 👋
+Hi there, I'm <a href="https://heangsok.github.io/myFirstWeb/project.html" target="_blank">Heang</a> 👋
 </h3>
 
 <h2 align="center">
