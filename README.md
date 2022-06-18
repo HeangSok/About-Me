@@ -82,7 +82,7 @@ I'm a Fresh Graduate Developer 💻!
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 💼 Soft Skills
+## 🌱  Soft Skills
 
 ![](https://img.shields.io/badge/Soft%20Skill-Teamwork-brightgreen)
 ![](https://img.shields.io/badge/Soft%20Skill-Communication-green)
