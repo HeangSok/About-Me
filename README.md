@@ -16,14 +16,9 @@ I'm a Fresh Graduate Developer 💻!
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/heang-sok-07848420a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Heang Sok | LinkedIn" width="21px"/></a>
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<a href="https://www.linkedin.com/in/heang-sok-07848420a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
-<a href="https://www.linkedin.com/in/heang-sok-07848420a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heang-sok-07848420a/)
 
 ## 🔭 I'm currently working on
 
@@ -42,10 +37,10 @@ I'm a Fresh Graduate Developer 💻!
 
 | **Organisation** | **Position** | **Type** | **Year** | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| *SecureStack* | Back-End Dev | Intern | Mar-Jun 2022 | *abedinpoonawala@gmail.com* |
-| *Red Cross Australia* | Telecross | Volunteer | Mar 2021 - Present | *ccornelius@redcross.org.au* |
-| *Help My Family Business* | Saleperson & Tax Accountant | Full-Time | Jul 2015 - Oct 2019 | No Email |
-| *Tela Petroleum* | Tax Accountant | Full-Time | Sep 2011 - Jul 2015 | *sophea_ma@yahoo.com* |
+| *SecureStack* | Back-End Dev | Intern | Mar-Jun 2022 | **Mr. Abedin Poonawala** </br> *abedinpoonawala@gmail.com* |
+| *Red Cross Australia* | Telecross | Volunteer | Mar 2021 - Present | **Ms. Christine Cornelius** </br> *ccornelius@redcross.org.au* |
+| *Help My Family Business* | Saleperson & Tax Accountant | Full-Time | Jul 2015 - Oct 2019 | **Mr. Ung Sovan** </br> No Email |
+| *Tela Petroleum* | Tax Accountant | Full-Time | Sep 2011 - Jul 2015 | **Mrs. Sophea Ma** </br> *sophea_ma@yahoo.com* |
 
 ## 📐 Education
 
@@ -103,5 +98,7 @@ I'm a Fresh Graduate Developer 💻!
 - [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- Guess My Number 🎮](https://heangsok.github.io/Guess-My-Number-/)
 - [![](https://img.shields.io/badge/Code-Swift-red) -- CheckList App ✅](https://github.com/HeangSok/ChecklistApp)
 - [![](https://img.shields.io/badge/Code-Swift-red) -- FavouritePlaces App 📍](https://github.com/HeangSok/FavouritePlaces)
+- [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- Modal Window 🖥](https://heangsok.github.io/Modal-Window/)
+- [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) -- Pick Game 🎮](https://heangsok.github.io/Pick-Game/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeangSok&layout=compact)
