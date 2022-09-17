@@ -42,7 +42,7 @@ Hi there, I'm <a href="https://github.com/HeangSok/About-Me" target="_blank">Hea
 
 ## 📐 Education
 
-| **Major** | **Univerisity** | **Tag** | **Year** |
+| **Major** | **Univerisity** | **Country** | **Year** |
 | ------------- | ------------- | ------------- | ------------- |
 | Master in Information Technology (MIT)| Griffith University  | ![](https://img.shields.io/badge/-Australia-red) | 2020-2022 |
 | Masters Qualifying Program (MQP) | Griffith College | ![](https://img.shields.io/badge/-Australia-red) | Feb 2020 – Jun 2020 |
