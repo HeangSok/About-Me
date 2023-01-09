@@ -35,6 +35,7 @@ Hi there, I'm <a href="https://github.com/HeangSok/About-Me" target="_blank">Hea
 
 | **Organisation** | **Position** | **Type** | **Year** | Reference |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| *SevenEleven* | Store Manager | Casual Member | Jun-2022 - Now | **Mr. Nikolas Cakovan** </br> *nik@mnsenterprises.com.au*|
 | *SecureStack* | Back-End Dev | Intern | Mar-Jun 2022 | **Mr. Abedin Poonawala** </br> *abedinpoonawala@gmail.com*|
 | *Red Cross Australia* | Telecross | Volunteer | Mar 2021 - Present | **Ms. Christine Cornelius** </br> *ccornelius@redcross.org.au* |
 | *Help My Family Business* | Saleperson & Tax Accountant | Full-Time | Jul 2015 - Oct 2019 | **Mr. Ung Sovan** </br> ungsovan@yahoo.com |
