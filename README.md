@@ -11,7 +11,8 @@ Curriculum Vitae
 Hi there, I'm <a href="https://github.com/HeangSok/About-Me" target="_blank">Heang</a>. I'm a Fresh Graduate Developer 💻!
 </h2> 
 
-<p align="justify"> Given my bachelor degree in Accounting, I always thought my dream was to be an accountant in a big company like Kampuchea Tela | Cambodia's Leading Oil and Gas Company, sipping my morning coffee and starting my day with financial statements and numbers. I loved my job, and I woke up every day basically thinking about how I could do it better. Things changed when I enrolled in a Python Bootcamp. At first, I thought I would do it as an amateur, but I could not get enough of it. Since then, computer science is like magic to me, and at the end of the day, I made up my mind to pursue my master’s degree in computer science here in Australia as an international student.
+<p align="justify"> 
+I am a fresh graduated student who seeking for the opportunity to work, learn, improve, and have fun with my prospective team as a software engineer.
 
 </p>
 
