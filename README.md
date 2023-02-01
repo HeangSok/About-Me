@@ -61,6 +61,7 @@ I am a fresh graduated student who seeking for the opportunity to work, learn, i
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&color=black)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://badges.aleen42.com/src/javascript.svg)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=brightgreen)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
